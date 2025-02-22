@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samssouza
-- 👀 I’m interested in  Unreal Engine C++ Tools Development
-- 🌱 I’m currently learning React, Ruby on Rails and C++ Fundamentals
-- 💞️ I’m looking to collaborate on Unreal Engine 4 Projects
+- 👀 I have been working with RoR for quite awhile.
+- Wanna be node dev. Learning Svelte.
 - 📫 How to reach me via email at samuel.ssouza95@gmail.com
 
 <!---
